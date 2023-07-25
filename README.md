@@ -119,3 +119,10 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 - 💖 [HellBoy](https://github.com/HellBoy-OP)
 
 ------
+<h1>
+    <p align="center">
+        <a href="https://heroku.com/deploy?template=https://github.com/rohitxpro/hell">
+            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+        </a>
+    </p>
+</h1>
